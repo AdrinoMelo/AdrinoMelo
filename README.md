@@ -131,9 +131,9 @@ Também participei de projetos relacionados à coleta e organização de dados p
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&include_all_commits=true&locale=pt-br&theme=transparent" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=AdrinoMelo&show_icons=true&include_all_commits=true&locale=pt-br&theme=transparent" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=8&locale=pt-br&theme=transparent" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrinoMelo&layout=compact&langs_count=8&locale=pt-br&theme=transparent" />
 
 </div>
 
@@ -145,7 +145,7 @@ Também participei de projetos relacionados à coleta e organização de dados p
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONHEÇA_MEU_PERFIL-A78BFA?style=for-the-badge\&logo=linkedin\&logoColor=white\&labelColor=1D1B20)](https://www.linkedin.com/in/adriano-souza-de-melo-97b573270/)
 
-[![GitHub](https://img.shields.io/badge/GITHUB-MEUS_PROJETOS-7C3AED?style=for-the-badge\&logo=github\&logoColor=white\&labelColor=1D1B20)](https://github.com/SEU_USUARIO)
+[![GitHub](https://img.shields.io/badge/GITHUB-MEUS_PROJETOS-7C3AED?style=for-the-badge\&logo=github\&logoColor=white\&labelColor=1D1B20)](https://github.com/AdrinoMelo)
 
 </div>
 
