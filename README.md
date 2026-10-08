@@ -8,19 +8,19 @@
 
 [![Desenvolvedor Mobile](https://img.shields.io/badge/DESENVOLVEDOR_MOBILE-React_Native-7C3AED?style=for-the-badge\&labelColor=1D1B20)](https://github.com/)
 
-[![LinkedIn](https://img.shields.io/badge/MEU_LINKEDIN-CLIQUE_AQUI-A78BFA?style=for-the-badge\&logo=linkedin\&logoColor=white\&labelColor=1D1B20)](https://www.linkedin.com/in/adriano-souza-de-melo-97b573270/)
-
 </div>
 
-## Desenvolvedor Mobile · ADS · Tecnologia
+ 🎓 Analista e Desenvolvedor de Sistemas | 👨🏻‍💻 Desenvolvedor Mobile | 📱 Tecnologia
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas no IFAM CMC** e atuo como **Desenvolvedor Mobile** na **Defesa Civil do Amazonas**.
+## 📌 Sobre mim
+
+Sou estudante de **Análise e Desenvolvimento de Sistemas no IFAM CMC**, **Técnico em Informática** e atuo como **Desenvolvedor Mobile** na **Defesa Civil do Amazonas**.
 
 Tenho interesse em desenvolvimento de software, especialmente na criação de aplicações mobile, arquitetura de sistemas, bancos de dados e qualidade de software.
 
 Atualmente, venho desenvolvendo aplicações utilizando **React Native, TypeScript e Expo**, buscando escrever código organizado, reutilizável e de fácil manutenção.
 
-## Experiência
+## 📈 Experiência Profissional
 
 <table>
 <tr>
@@ -28,7 +28,7 @@ Atualmente, venho desenvolvendo aplicações utilizando **React Native, TypeScri
 
 ### 🏢 Defesa Civil do Amazonas
 
-**Desenvolvedor Mobile**
+**Desenvolvedor Mobile | Atualmente**
 
 Atuo no desenvolvimento e evolução de aplicações mobile, trabalhando com tecnologias modernas do ecossistema React Native.
 
@@ -60,7 +60,7 @@ Busco aplicar boas práticas de arquitetura e organização de código, contribu
 
 > Meu foco é transformar necessidades reais em soluções de software organizadas, funcionais e com uma boa experiência para o usuário.
 
-## Stack principal
+## 🛠️ Stack principal
 
 <div align="center">
 
@@ -129,6 +129,11 @@ Durante minha formação, participei de projetos envolvendo **desenvolvimento de
 
 Também participei de projetos relacionados à coleta e organização de dados para aplicações de **Machine Learning e reconhecimento de sinais em Libras**.
 
+## 🌐 Idiomas
+
+* 🇧🇷 Português: Nativo
+* 🇺🇸 Inglês: Intermediário - Avançado
+
 ## GitHub Stats
 
 <div align="center">
@@ -153,3 +158,12 @@ Também participei de projetos relacionados à coleta e organização de dados p
 
 ![Rodapé ondulado](https://capsule-render.vercel.app/api?type=waving\&color=0:7C3AED,25\:A78BFA,55:4C1D95,100:1D1B20\&height=110\&section=footer)
 
+## Contributions
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/merrykkj/merrykkj/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/merrykkj/merrykkj/output/github-contribution-grid-snake.svg">
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/merrykkj/merrykkj/output/github-contribution-grid-snake.svg" width="95%"/>
+  </picture>
+</div>
