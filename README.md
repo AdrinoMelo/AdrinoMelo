@@ -1,8 +1,10 @@
 ![Cabeçalho ondulado](https://capsule-render.vercel.app/api?type=waving\&color=0:1D1B20,45:4C1D95,75\:A78BFA,100:7C3AED\&height=110\&section=header)
 
+<h1 align="center">✨ Olá, eu sou o Adriano Melo!</h1>
+
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&duration=3500\&pause=1000\&color=D8B4FE\&width=435\&lines=Ol%C3%A1%2C+me+chamo+Adriano+Melo!!!;Desenvolvedor+Mobile+em+forma%C3%A7%C3%A3o;Te+convido+a+conhecer+meu+perfil)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&duration=3500\&pause=1000\&color=D8B4FE\&width=435\&lines=Te+convido+a+conhecer+meu+perfil)](https://git.io/typing-svg)
 
 [![Desenvolvedor Mobile](https://img.shields.io/badge/DESENVOLVEDOR_MOBILE-React_Native-7C3AED?style=for-the-badge\&labelColor=1D1B20)](https://github.com/)
 
